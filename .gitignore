@@ -1,0 +1,18 @@
+/pgdata/*
+/.vscode/*
+
+# Maven build output
+target/
+
+# Java and IDE metadata
+.classpath
+.project
+.settings/
+*.class
+*.log
+
+# Spring tooling metadata
+.factorypath
+.springBeans
+.sts4-cache/
+
